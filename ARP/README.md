@@ -11,7 +11,7 @@ arp
 
 ### Screenshot
 
-![ARP Capture](images/arp.png)
+![ARP Capture](../images/arp.png)
 
 ### Key Observations
 
